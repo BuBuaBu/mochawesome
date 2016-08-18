@@ -19,3 +19,5 @@ mochawesome-reports
 npm-debug.log
 
 _site/
+
+.idea
